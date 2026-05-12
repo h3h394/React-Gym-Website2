@@ -5,13 +5,13 @@ import Button from "../GlobalComponents/Button";
 const BigOfferInfo = () => (
   <div css={styles} className="info">
     <h3>
-      ESCOLHA NOSSO PLANO<br /> ANUAL E GANHE ATÉ
+      PLANOS PROMOCIONAIS<br /> PARA TREINAR COM
     </h3>
-    <h2>40% Off</h2>
+    <h2>mais economia</h2>
     <p>
-      Pague em até 12x<br/>Consulte nossos preços e venha visitar a academia.
+      Consulte os valores atualizados,<br/>as opcoes por forma de pagamento e agende sua visita.
     </p>
-    <Button text="Agende sua matrícula" />
+    <Button text="Agende sua matricula" />
   </div>
 );
 
