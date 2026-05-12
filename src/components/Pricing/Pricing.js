@@ -103,6 +103,7 @@ const styles = css`
   }
   .paymentGrid {
     display: grid;
+    margin-top: 24px;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 24px;
   }
